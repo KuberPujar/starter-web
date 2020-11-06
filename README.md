@@ -11,3 +11,6 @@ Deployment
 
 ##Conclusion
 concluded
+
+##copyright notice
+copyright notice
