@@ -25,3 +25,6 @@ Thnaks
 
 ##Stashing/clearing/discarding
 This is about discarding the files.
+
+##Simple Changes
+simnple changes
