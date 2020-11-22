@@ -22,3 +22,6 @@ contributing on existing content.
 Thnaks
 
 ###Conflict
+
+##Stashing/clearing/discarding
+This is about discarding the files.
