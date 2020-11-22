@@ -14,7 +14,7 @@ Deployment
 concluded
 
 ##copyright notice
-copyright notice
+copyright notice. All copyright issue.
 
 ##Contribution
 contributing on existing content.
